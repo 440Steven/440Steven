@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="600" src"https://www.freepik.com/free-vector/coding-concept-illustration_6572420.htm#page=2&query=avatar%20developer&position=35&from_view=keyword&track=ais_user&uuid=19700535-da13-4b03-9984-bea2a3cd5146">
+![3301602](https://github.com/440Steven/440Steven/assets/173803115/5ad64cca-5ed5-4455-b7b2-79bcc049fd10)
 <h1 align="center">Salut 👋, je suis Steven</h1>
 <h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
 
