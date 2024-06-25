@@ -1,6 +1,7 @@
+<img align="center" alt="coding" width="600" src"https://www.freepik.com/free-vector/coding-concept-illustration_6572420.htm#page=2&query=avatar%20developer&position=35&from_view=keyword&track=ais_user&uuid=19700535-da13-4b03-9984-bea2a3cd5146">
 <h1 align="center">Salut 👋, je suis Steven</h1>
 <h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
-<img align="right" alt="coding" width="400" src"https://imgs.search.brave.com/_373oTlRav_oEW2qE8MmC0_CmzRv99of_QNGeH4yzLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=440steven&label=Profile%20views&color=0e75b6&style=flat" alt="440steven" /> </p>
 
