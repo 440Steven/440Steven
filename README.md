@@ -2,10 +2,6 @@
 <h1 align="center">Salut 👋, je suis Steven</h1>
 <h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
 
-![animated-cowboy-computer-coding-w60pcikl6ieg525n](https://github.com/440Steven/440Steven/assets/173803115/2c81a160-188c-49c2-8ffe-78f702abf87b)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=440steven&label=Profile%20views&color=0e75b6&style=flat" alt="440steven" /> </p>
 
 - 🔭 Je travail actuellement sur **DesignVisuelRun Website**
