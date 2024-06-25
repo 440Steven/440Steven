@@ -1,4 +1,4 @@
-<img align="center" src="![animated-cowboy-computer-coding-w60pcikl6ieg525n](https://github.com/440Steven/440Steven/assets/173803115/2c81a160-188c-49c2-8ffe-78f702abf87b)">
+<img align="center" src="![animated-cowboy-computer-coding-w60pcikl6ieg525n](https://github.com/440Steven/440Steven/assets/173803115/2c81a160-188c-49c2-8ffe-78f702abf87b)"/>
 <h1 align="center">Salut 👋, je suis Steven</h1>
 <h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
 
