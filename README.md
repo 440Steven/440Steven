@@ -1,8 +1,8 @@
-<p align="center" width"600 "> ![3301602](https://github.com/440Steven/440Steven/assets/173803115/5ad64cca-5ed5-4455-b7b2-79bcc049fd10) <\p>
+![3301602](https://github.com/440Steven/440Steven/assets/173803115/5ad64cca-5ed5-4455-b7b2-79bcc049fd10)
 <h1 align="center">Salut 👋, je suis Steven</h1>
 <h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
 
-<p align="right" width"400 ">![animated-cowboy-computer-coding-w60pcikl6ieg525n](https://github.com/440Steven/440Steven/assets/173803115/2c81a160-188c-49c2-8ffe-78f702abf87b)<\p>
+![animated-cowboy-computer-coding-w60pcikl6ieg525n](https://github.com/440Steven/440Steven/assets/173803115/2c81a160-188c-49c2-8ffe-78f702abf87b)
 
 
 
