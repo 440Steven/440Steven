@@ -1,14 +1,14 @@
 ![3301602](https://github.com/440Steven/440Steven/assets/173803115/5ad64cca-5ed5-4455-b7b2-79bcc049fd10)"
-<h1 align="center">Salut 👋, je suis Steven</h1>
-<h3 align="center">Un développeur junior passionné en apprentissage venant de l'île de la Réunion</h3>
+<h1 align="center">Hi 👋, I'm Steven</h1>
+<h3 align="center">French passionate junior developer in training from Reunion Island</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=440steven&label=Profile%20views&color=0e75b6&style=flat" alt="440steven" /> </p>
 
-- 🔭 Je travail actuellement sur **Formation FromScratch**
+- 🔭 I am currently working on **Formation FromScratch**
 
-- 🌱 J'apprend actuellement **Javascript**
+- 🌱 I am currently learning **Javascript**
 
-- 📫 Comment me joindre **dsteven.pro@gmail.com**
+- 📫 How to contact me **dsteven.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
