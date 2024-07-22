@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=440steven&label=Profile%20views&color=0e75b6&style=flat" alt="440steven" /> </p>
 
-- 🔭 Je travail actuellement sur **DesignVisuelRun Website**
+- 🔭 Je travail actuellement sur **Formation FromScratch**
 
-- 🌱 J'apprend actuellement **Sass, JavaScript, PHP**
+- 🌱 J'apprend actuellement **Javascript**
 
 - 📫 Comment me joindre **dsteven.pro@gmail.com**
-
-- ⚡ Fun fact **Polyvalent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
